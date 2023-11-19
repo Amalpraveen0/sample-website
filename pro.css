@@ -1,0 +1,160 @@
+body{
+    background-color: rgb(82, 82, 82);
+    position: absolute;
+    left:350px;
+    top:80px;
+    
+}
+
+.color1{
+    background-color:grey;
+    height:500px;
+    width:870px;
+}
+.color2{
+    background-color: rgb(255, 255, 255);
+    width: 53.7vh;
+    height: 50vh;
+    position: absolute;
+    left: 520px;
+    bottom: 175px;
+}
+.h1{
+    font-family: trebuchet ms ;
+    position : absolute;
+    left:38px;
+    bottom:220px;
+    width: 190px;
+    font-size:20px;
+    font-weight:bold;
+}
+.img1 {
+    width: 520px;
+    height: 325px;
+}
+.p1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: grey;
+    width: 300px;
+    font-size: 12px;
+    position: absolute;
+    top:110px;
+    left: 38px;
+    opacity: 80%;
+}
+.l1{
+    cursor: pointer;
+    position: absolute;
+    top: 240px;
+    left: 38px;
+    font-size: 14px;
+}
+.color3 {
+    background-color:white;
+    height: 27.6vh;
+    width: 133.6vh;
+    position: absolute;
+    top:325.4px;
+}
+.img2{
+    height:163px;
+    width: 210px;
+}
+.h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+    font-weight:bold;
+    letter-spacing:2px;
+    position: absolute;
+    top:30px;
+    left:232px;
+}
+.p2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position:absolute;
+    left:232px;
+    bottom: 10px;
+    color: grey;
+    font-size: 12px;
+    width: 360px;   
+    opacity: 80%;
+}
+.img3{
+    cursor: pointer;
+    position:absolute;
+    top:255px;
+    right: 160px;
+}
+.img5 {
+    position: absolute;
+    right:0px;
+    top:0;
+
+    width: 270px;
+    height:163px;
+}
+.arrow1{
+    cursor: pointer;
+    height:40px;
+    width:50px;
+    position: absolute;
+    right:305px;
+    bottom:180px;
+}
+.arrow2{
+    cursor: pointer;
+    transform: rotate(180deg);
+    height:40px;
+    width:50px;
+    position: absolute;
+    right: 264.3px;
+    bottom:180px;  
+}
+.room{
+    font-family: trebuchet ms ;
+    position: absolute;
+    left: 55px;
+    top:25px;
+    font-weight: bold;
+    color:white;
+}
+.home{
+    cursor: pointer;
+    font-family: trebuchet ms ;
+    position: absolute;
+    left: 145px;
+    top:20.5px;
+    font-weight: bold;
+    color: white;
+    font-size: 10px;
+}
+.shop{
+    cursor: pointer;
+    font-family: trebuchet ms ;
+    position: absolute;
+    left: 188px;
+    top:20.5px;
+    font-weight: bold;
+    color: white;
+    font-size: 10px;
+}
+.about{
+    cursor: pointer;
+    font-family: trebuchet ms ;
+    position: absolute;
+    left: 228px;
+    top:18.5px;
+    font-weight: bold;
+    color: white;
+    font-size: 10px;
+}
+.contact{
+    cursor: pointer;
+    font-family: trebuchet ms ;
+    position: absolute;
+    left: 278px;
+    top:16.5px;
+    font-weight: bold;
+    color: white;
+    font-size: 10px;
+}
